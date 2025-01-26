@@ -1,7 +1,9 @@
-![Blue Modern Corporate Staff Profile LinkedIn Banner(2)](https://github.com/GehanFonseka/GehanFonseka/assets/172630251/d39e21ce-9173-414d-baef-54f78e67f96b)
 
-<h1 align="center">Hi 👋, I'm Gehan Fonseka</h1>
-<h3 align="center"> Passionate IT Student | Exploring the Boundless World of Technology </h3>
+
+- 👋 Hi, I’m @OmashV
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI and ML
+- 📫 How to reach me - vidurangaomash@gmail.com
 
 <!--profile visit count-->
 <div align="center">
