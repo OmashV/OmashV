@@ -18,9 +18,9 @@ Data Science UG @ SLIIT | AI/ML & Data Analysis Enthusiast
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-👀 I’m interested in AI  
-🌱 I’m currently learning AI and ML  
-📫 How to reach me - vidurangaomash@gmail.com 
+- 👀 I’m interested in AI  
+- 🌱 I’m currently learning AI and ML  
+- 📫 How to reach me - vidurangaomash@gmail.com 
 
 </td>
 
