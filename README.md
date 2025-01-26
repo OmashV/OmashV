@@ -16,7 +16,7 @@
 <!-- GitHub Profile Visit Counter -->
 <img src="https://komarev.com/ghpvc/?username=OmashV&color=blue" alt="profile views" />  
 </div>
----
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
