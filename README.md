@@ -19,8 +19,17 @@ Data Science UG @ SLIIT | AI/ML & Data Analysis Enthusiast
 <tr border="none">
 <td width="50%" align="left">
 - 👀 I’m interested in AI  
-- 🌱 I’m currently learning AI and ML  
-- 📫 How to reach me - vidurangaomash@gmail.com 
+  
+- 🌱 I’m currently learning AI and ML
+ 
+- 📫 How to reach me - vidurangaomash@gmail.com
+ 
+- 🌱 I’m currently learning **MERN, Python**
+
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
+- 📫 How to reach me **gehanfonseka@gmail.com**
+
 
 </td>
 
