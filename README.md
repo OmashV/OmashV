@@ -3,9 +3,7 @@
 <div align="center">
 
 # 👋 Hi, I’m @OmashV  
-👀 I’m interested in AI  
-🌱 I’m currently learning AI and ML  
-📫 How to reach me - vidurangaomash@gmail.com  
+Data Science UG @ SLIIT | AI/ML & Data Analysis Enthusiast 
 
 </div>
 
