@@ -7,7 +7,7 @@
 <div align="center">
   
 <!-- GitHub Profile Visit Counter -->
-<img src="https://komarev.com/ghpvc/?username=GehanFonseka&color=blue" alt="profile views" />  
+<img src="https://komarev.com/ghpvc/?username=OmashV&color=blue" alt="profile views" />  
 </div>
 ---
 <table align="center">
