@@ -75,9 +75,5 @@ Data Science UG @ SLIIT | AI/ML & Data Analysis Enthusiast
 
 </table>
 
- <p align="center" >
-      <img
-          src="https://github-profile-trophy.vercel.app/?username=OmashV"
-          alt="GehanFonseka"
 
 ---
